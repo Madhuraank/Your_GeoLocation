@@ -15,5 +15,7 @@ Ubuntu users have to unzip the chromedriver_linux64.zip file and then lacate chr
 Requirements
 
 Python 3
+
 Selenium for Python
+
 Suitable chromedriver.exe
